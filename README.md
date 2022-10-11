@@ -12,8 +12,13 @@ CURRENT SKILL SETS:
 FRONT END: React, Angular, jQuery
 - BACK END: Node.js, Express
        👾
-               SKILLS IN PROGRESS: 
-              - LANGUAGES: Python, Java, Mern
-              - FRONT END: AJAX, JSON, RESTful APIs, Bootstrap, Materialize
-              - BACK END: Django, Flask, Rails, AWS, Socket.io, OOP
-              - DATABASES: SQL (MySQL, SQLite), NoSQL (MongoDB), Mongoose, Postgres, Django ORM
+ 
+ 
+ 
+ 
+ 
+  SKILLS IN PROGRESS: 
+ - LANGUAGES: Python, Java, Mern
+ - FRONT END: AJAX, JSON, RESTful APIs, Bootstrap, Materialize
+ - BACK END: Django, Flask, Rails, AWS, Socket.io, OOP
+ - DATABASES: SQL (MySQL, SQLite), NoSQL (MongoDB), Mongoose, Postgres, Django ORM
