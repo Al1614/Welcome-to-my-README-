@@ -9,8 +9,12 @@ Hello! 😄
 
 CURRENT SKILL SETS: 
 - LANGUAGES: JavaScript(ES6), TypeScript, CSS, HTML
-FRONT END: React, Angular, jQuery
+- FRONT END: React, Angular, jQuery
 - BACK END: Node.js, Express
+       
+       
+       
+       
        👾
  
  
