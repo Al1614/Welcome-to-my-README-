@@ -7,22 +7,12 @@ Hello! 😄
 
 - After teaching myself some programming/coding I decided to enroll in Coding Dojo, a bootcamp geared towards learning languages in their entirety through working on dev teams, collaboration with others, and the opportunity to help other students. This allows me to maximize my potential as a full stack developer and engineer to be prepared to work for a great company. 💻📱
 
-CURRENT SKILL SETS: 
-- LANGUAGES: Python, JavaScript(ES6), TypeScript, CSS, HTML
-- FRONT END: AJAX, React, Angular, jQuery
-- BACK END: Django, Flask, Node.js, Express
-- DATABASES: SQL (MySQL, SQLite), NoSQL (MongoDB)
+CURRENT SKILL SETS:   👾
+- LANGUAGES: Java, Python, Mern, JavaScript(ES6), TypeScript, CSS, HTML
+- FRONT END: AJAX, React, Angular, jQuery, JSON, RESTful APIs, Bootstrap, Materialize
+- BACK END: Django, Flask, Node.js, Express, Rails, AWS, Socket.io, OOP
+- DATABASES: SQL (MySQL, SQLite), NoSQL (MongoDB), Mongoose, Postgres, Django ORM
        
        
        
-       👾
- 
- 
- 
- 
- 
-  SKILLS IN PROGRESS: 
- - LANGUAGES: Java, Mern
- - FRONT END: JSON, RESTful APIs, Bootstrap, Materialize
- - BACK END: Rails, AWS, Socket.io, OOP
- - DATABASES: Mongoose, Postgres, Django ORM
+     
